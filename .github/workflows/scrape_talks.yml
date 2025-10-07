@@ -1,5 +1,9 @@
 name: Scrape Talk Locations
+permissions:
+      contents: write
+      pull-requests: write # Add other necessary permissions as needed
 
+    
 on:
   push:
     paths:
