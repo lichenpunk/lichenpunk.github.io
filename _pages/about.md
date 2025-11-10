@@ -12,9 +12,8 @@ I am a technology and engineering teacher currently working in a K-5 setting. I 
 ### Research Interests 
 - How technologies in schools change the labor of teaching and the experience of learning, including how they intersect with race, class and gender
 - Taking a social and historical lens to educational technology
-- Educational technologies that may be seen as "failed" or forgotten
+- How the theories around educational technology were developed over time and legitimized
 - The social construction of the learning management system
-- Using participatory and speculative design to explore other models of educational technology, especially outside the forces of markets
 - Designing K-12 instructional materials exploring the non-linear, non-deterministic, and political nature of technology 
 
 #### Other Interests
