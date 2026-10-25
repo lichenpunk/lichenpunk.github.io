@@ -14,7 +14,7 @@ main:
   #- title: "Teaching"
    # url: /teaching/    
     
-   - title: "Code Experiments"
+  - title: "Code Experiments"
     url: /portfolio/
         
   - title: "Blog Posts"
